@@ -10,12 +10,26 @@
 
 # 基本情報
 
-|項目|詳細|
-|---|---|
-|氏名|杉田 なお|
-|生年月日|1990-07-30|
-|居住地|東京都|
-|GitHub|https://github.com/ta539tg70|
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">氏名</th>
+      <td>杉田 なお</td>
+    </tr>
+    <tr>
+      <th scope="row">生年月日</th>
+      <td>1990-07-30</td>
+    </tr>
+    <tr>
+      <th scope="row">居住地</th>
+      <td>東京都</td>
+    </tr>
+    <tr>
+      <th scope="row">GitHub</th>
+      <td>https://github.com/ta539tg70</td>
+    </tr>
+  </tbody>
+</table>
 
 # 職務要約
 
