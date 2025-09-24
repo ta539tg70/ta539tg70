@@ -128,7 +128,7 @@
 -->
 
 <details>
-    <summary><p>2019-05 〜 2019-09：在庫管理システム</p></summary>
+    <p><summary>2019-05 〜 2019-09：在庫管理システム</summary></p>
     <table>
         <tbody>
             <tr>
@@ -152,7 +152,7 @@
 </details>
 
 <details>
-    <summary><p><b><i>2019-04 〜 2019-05: 中古車買取システム</b></i></p></summary>
+    <p><b><i><summary>2019-04 〜 2019-05: 中古車買取システム</summary></b></i></p>
     <table>
         <tbody>
             <tr>
