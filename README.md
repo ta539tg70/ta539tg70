@@ -43,7 +43,7 @@
 
 # 職務経歴
 
-## 株式会社BuySell Technologies
+## 株式会社BuySell Technologies（2019-04 〜 2025-04）
 
 ### 概要
 
