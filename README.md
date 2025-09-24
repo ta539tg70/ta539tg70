@@ -79,9 +79,9 @@
 
 ## 株式会社BuySell Technologies
 
-### 概要
+### 開発経験
 
-在籍中は常時掛け持ちで複数プロジェクトに参画しており、2019年4月〜2025年3月までの約6年間で述べ15以上のプロジェクトに携わった。（自分のキャリアを築く上で特に重要な経験を積むことができたプロジェクトは***太字斜字***で記載）
+在籍中は常時掛け持ちで複数プロジェクトに参画し、2019年4月〜2025年3月までの約6年間で述べ15以上のプロジェクトに携わった。（自分のキャリアを築く上で特に重要な経験を積むことができたものは***太字斜字***で記載）
 
 <!--
 1. メルセル（2020.10～2021.01）
@@ -129,7 +129,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Google Cloud, PostgreSQL, Go, GORM, GraphQL, Elasticsearch, React、Next.js、TypeScript、Apollo Client</td>
+                <td>Google Cloud, PostgreSQL, Elasticsearch, Go, GORM, GraphQL, React、Next.js、TypeScript、Apollo Client</td>
             </tr>
         </tbody>
     </table>
