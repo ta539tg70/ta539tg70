@@ -83,19 +83,19 @@
 
 |概要|期間|チーム構成|役割|業務内容|使用技術|
 |---|---|---|---|---|---|
-|EC販売管理システム|2024-07 〜 2025-01|PdM 1, EM 1, EN 10|EM|エンジニアリングマネジメント|Ruby on Rails, PostgreSQL, AWS|
-|toBオークションシステム|2024-01 〜 2025-01|PdM 1, EM 1, EN 3|EM|エンジニアリングマネジメント|---|
-|バックオフィス改善PJ|2023-04 〜 2024-05|PjM 1, Biz 9|PjM|バックオフィスの運用フロー改善|---|
-|toBオークションシステム|2023-05 〜 2023-08|PdM 2, EM 1, EN 5|BE, FE|新機能開発|Ruby on Rails, PostgreSQL, AWS|
-|在庫管理システム|2023-02 〜 2023-04|PdM 1, EN 3|PdM|新規システム立ち上げ|---|
-|自動送金システム|2022-09 〜 2022-12|PdM 1, EN 1|BE|新規システム立ち上げ|Node.js, TypeScript, GCP, Datastore|
-|toBオークションシステム|2021-02 〜 2023-01|PdM 2, EM 1, EN 6|BE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS|
-|EC販売管理システム|2020-10 〜 2021-01|PdM 1, EN 2|BE, FE|新規システム立ち上げ, 運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS, DynamoDB, Lambda|
-|Shopifyサイト構築|2020-08 〜 2020-09|EN 2|BE, FE|新規Shopifyストア立ち上げ|Liquid|
-|即時買取システム|2020-04 〜 2020-07|PdM 1, EM 1, EN 5|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, GCP|
-|在庫管理システム|2020-01 〜 2020-03|PdM 1, EM 1, EN 3|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS|
-|データ移行システム|2019-10 〜 2019-12|TL 1, EN 2|BE|データ加工・変換機能開発|Ruby on Rails, PostgreSQL, AWS, DynamoDB, Lambda|
-|買取管理システム|2019-10 〜 2019-11|PdM 2, EN 5|BE|アンケート機能開発|Ruby on Rails, PostgreSQL, GCP|
+<!-- |EC販売管理システム|2024-07 〜 2025-01|PdM 1, EM 1, EN 10|EM|エンジニアリングマネジメント|Ruby on Rails, PostgreSQL, AWS| -->
+<!-- |toBオークションシステム|2024-01 〜 2025-01|PdM 1, EM 1, EN 3|EM|エンジニアリングマネジメント|---| -->
+<!-- |バックオフィス改善PJ|2023-04 〜 2024-05|PjM 1, Biz 9|PjM|バックオフィスの運用フロー改善|---| -->
+<!-- |toBオークションシステム|2023-05 〜 2023-08|PdM 2, EM 1, EN 5|BE, FE|新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
+<!-- |在庫管理システム|2023-02 〜 2023-04|PdM 1, EN 3|PdM|新規システム立ち上げ|---| -->
+<!-- |自動送金システム|2022-09 〜 2022-12|PdM 1, EN 1|BE|新規システム立ち上げ|Node.js, TypeScript, GCP, Datastore| -->
+<!-- |toBオークションシステム|2021-02 〜 2023-01|PdM 2, EM 1, EN 6|BE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
+<!-- |EC販売管理システム|2020-10 〜 2021-01|PdM 1, EN 2|BE, FE|新規システム立ち上げ, 運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS, DynamoDB, Lambda| -->
+<!-- |Shopifyサイト構築|2020-08 〜 2020-09|EN 2|BE, FE|新規Shopifyストア立ち上げ|Liquid| -->
+<!-- |即時買取システム|2020-04 〜 2020-07|PdM 1, EM 1, EN 5|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, GCP| -->
+<!-- |在庫管理システム|2020-01 〜 2020-03|PdM 1, EM 1, EN 3|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
+<!-- |データ移行システム|2019-10 〜 2019-12|TL 1, EN 2|BE|データ加工・変換機能開発|Ruby on Rails, PostgreSQL, AWS| -->
+<!-- |買取管理システム|2019-10 〜 2019-11|PdM 2, EN 5|BE|アンケート機能開発|Ruby on Rails, PostgreSQL, GCP| -->
 <!-- |在庫管理システム|2019-05 〜 2019-09|PdM 1, EM 1, EN 4|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
 <!-- |中古車買取システム|2019-04 〜 2019-05|PdM 2, EM 1, EN 2|BE, FE|運用改善|PHP, MySQL, AWS| -->
 
@@ -127,6 +127,320 @@
         - 業務委託の契約管理
 -->
 
+|EC販売管理システム|2024-07 〜 2025-01|PdM 1, EM 1, EN 10|EM|エンジニアリングマネジメント|Ruby on Rails, PostgreSQL, AWS|
+
+<details>
+    <p><summary>2024-07 〜 2025-02：EC販売管理システム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EM 1名, EN 10名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>EM</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>エンジニアリングマネジメント</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Google Cloud, Terraform, PostgreSQL, GraphQL, Hasura, Go、gqlgen, GORM, Elasticsearch, React、Next.js、TypeScript、Apollo Client</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><b><summary>2024-01 〜 2025-02：toBオークションシステム</summary></b></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EM 1名, EN 3名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>EM</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>エンジニアリングマネジメント</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, AWS, Lambda</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><b><i><summary>2023-04 〜 2024-05：バックオフィス改善PJ</summary></b></i></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PjM 1名, Biz 9名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>PjM</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>バックオフィスの運用フロー改善</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>---</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2023-05 〜 2023-08：toBオークションシステム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 2名, EM 1名, EN 5名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>新機能開発、サマーインターンメンター</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>AWS, Ruby on Rails, PostgreSQL</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2023-02 〜 2023-04：在庫管理システム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EN 3名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>PdM</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>新規システム立ち上げ</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Google Cloud, Go, Next.js, TypeScript, PostgreSQL</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><b><i><summary>2022-09 〜 2022-12：自動送金システム</summary></b></i></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>EM 1名, EN 1名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>新規システム立ち上げ</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Node.js, TypeScript, GCP, Datastore</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><b><i><summary>2021-02 〜 2023-01：toBオークションシステム</summary></b></i></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EM 1名, EN 6名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>運用改善, 新機能開発</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, AWS</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><b><i><summary>2020-10 〜 2021-01：EC販売管理システム</summary></b></i></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EN 1名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>新規システム立ち上げ, 運用改善, 新機能開発</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, DynamoDB, AWS, Lambda</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2020-08 〜 2020-09：Shopifyサイト構築</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>EN 2名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>新規Shopifyストア立ち上げ</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Liquid</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2020-04 〜 2020-07：即時買取システム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EM 1名, EN 5名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>運用改善, 新機能開発</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, GCP</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2020-01 〜 2020-03：在庫管理システム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EM 1名, EN 3名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>運用改善, 新機能開発</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, AWS</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2019-10 〜 2019-12：データ移行システム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>EN 2名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>データ加工・変換機能開発</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, AWS</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <p><summary>2019-10 〜 2019-11：買取管理システム</summary></p>
+    <table>
+        <tbody>
+            <tr>
+                <th scope="row">チーム編成</th>
+                <td>PdM 2名, EN 5名</td>
+            </tr>
+            <tr>
+                <th scope="row">自分の役割</th>
+                <td>BE</td>
+            </tr>
+            <tr>
+                <th scope="row">業務内容</th>
+                <td>アンケート機能開発</td>
+            </tr>
+            <tr>
+                <th scope="row">使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, GCP</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
 <details>
     <p><summary>2019-05 〜 2019-09：在庫管理システム</summary></p>
     <table>
@@ -152,7 +466,7 @@
 </details>
 
 <details>
-    <p><b><i><summary>2019-04 〜 2019-05: 中古車買取システム</summary></b></i></p>
+    <p><summary>2019-04 〜 2019-05：中古車買取システム</summary></p>
     <table>
         <tbody>
             <tr>
