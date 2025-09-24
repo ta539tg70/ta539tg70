@@ -40,14 +40,34 @@
 
 # 技術スタック
 
-|項目|詳細|
-|---|---|
-|インフラ|AWS, Google Cloud, SAM|
-|データベース|PostgreSQL, MySQL, DynamoDB, Datastore|
-|バックエンド|Ruby on Rails, Node.js, Python, OpenAPI|
-|フロントエンド|React, Next.js, TypeScript, MUI, Storybook|
-|CI/CD|GitHub Actions|
-|ツール|Jira, Confluence, Slack, Sentry, Opsgenie|
+<table>
+  <tbody>
+    <tr>
+      <th scope="row">インフラ</th>
+      <td>AWS, Google Cloud, SAM</td>
+    </tr>
+    <tr>
+      <th scope="row">データベース</th>
+      <td>PostgreSQL, MySQL, DynamoDB, Datastore</td>
+    </tr>
+    <tr>
+      <th scope="row">バックエンド</th>
+      <td>Ruby on Rails, Node.js, Python, OpenAPI</td>
+    </tr>
+    <tr>
+      <th scope="row">フロントエンド</th>
+      <td>React, Next.js, TypeScript, MUI, Storybook</td>
+    </tr>
+    <tr>
+      <th scope="row">CI/CD</th>
+      <td>GitHub Actions</td>
+    </tr>
+    <tr>
+      <th scope="row">ツール</th>
+      <td>Jira, Confluence, Slack, Sentry, Opsgenie</td>
+    </tr>
+  </tbody>
+</table>
 
 # 自己PR
 
@@ -109,6 +129,7 @@
 
 <details>
     <summary>2019-05 〜 2019-09: 在庫管理システム</summary>
+    <br>
     <table>
         <thead>
             <tr>
@@ -139,6 +160,7 @@
 
 <details>
     <summary><span style="color: red; ">2019-04 〜 2019-05: 中古車買取システム</span></summary>
+    <br>
     <table>
         <thead>
             <tr>
