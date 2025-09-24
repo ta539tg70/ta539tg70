@@ -81,23 +81,7 @@
 
 ### 概要
 
-|概要|期間|チーム構成|役割|業務内容|使用技術|
-|---|---|---|---|---|---|
-<!-- |EC販売管理システム|2024-07 〜 2025-01|PdM 1, EM 1, EN 10|EM|エンジニアリングマネジメント|Ruby on Rails, PostgreSQL, AWS| -->
-<!-- |toBオークションシステム|2024-01 〜 2025-01|PdM 1, EM 1, EN 3|EM|エンジニアリングマネジメント|---| -->
-<!-- |バックオフィス改善PJ|2023-04 〜 2024-05|PjM 1, Biz 9|PjM|バックオフィスの運用フロー改善|---| -->
-<!-- |toBオークションシステム|2023-05 〜 2023-08|PdM 2, EM 1, EN 5|BE, FE|新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
-<!-- |在庫管理システム|2023-02 〜 2023-04|PdM 1, EN 3|PdM|新規システム立ち上げ|---| -->
-<!-- |自動送金システム|2022-09 〜 2022-12|PdM 1, EN 1|BE|新規システム立ち上げ|Node.js, TypeScript, GCP, Datastore| -->
-<!-- |toBオークションシステム|2021-02 〜 2023-01|PdM 2, EM 1, EN 6|BE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
-<!-- |EC販売管理システム|2020-10 〜 2021-01|PdM 1, EN 2|BE, FE|新規システム立ち上げ, 運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS, DynamoDB, Lambda| -->
-<!-- |Shopifyサイト構築|2020-08 〜 2020-09|EN 2|BE, FE|新規Shopifyストア立ち上げ|Liquid| -->
-<!-- |即時買取システム|2020-04 〜 2020-07|PdM 1, EM 1, EN 5|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, GCP| -->
-<!-- |在庫管理システム|2020-01 〜 2020-03|PdM 1, EM 1, EN 3|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
-<!-- |データ移行システム|2019-10 〜 2019-12|TL 1, EN 2|BE|データ加工・変換機能開発|Ruby on Rails, PostgreSQL, AWS| -->
-<!-- |買取管理システム|2019-10 〜 2019-11|PdM 2, EN 5|BE|アンケート機能開発|Ruby on Rails, PostgreSQL, GCP| -->
-<!-- |在庫管理システム|2019-05 〜 2019-09|PdM 1, EM 1, EN 4|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
-<!-- |中古車買取システム|2019-04 〜 2019-05|PdM 2, EM 1, EN 2|BE, FE|運用改善|PHP, MySQL, AWS| -->
+在籍中は常時掛け持ちで複数プロジェクトに参画しており、2019年4月〜2025年3月までの約6年間で述べ15以上のプロジェクトに携わった。（自分のキャリアを築く上で特に重要な経験を積むことができたプロジェクトは***太字斜字***で記載）
 
 <!--
 1. メルセル（2020.10～2021.01）
@@ -127,10 +111,8 @@
         - 業務委託の契約管理
 -->
 
-|EC販売管理システム|2024-07 〜 2025-01|PdM 1, EM 1, EN 10|EM|エンジニアリングマネジメント|Ruby on Rails, PostgreSQL, AWS|
-
 <details>
-    <p><summary>2024-07 〜 2025-02：EC販売管理システム</summary></p>
+    <p><summary>2024-07 〜 2025-03：EC販売管理システム</summary></p>
     <table>
         <tbody>
             <tr>
@@ -147,14 +129,14 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Google Cloud, Terraform, PostgreSQL, GraphQL, Hasura, Go、gqlgen, GORM, Elasticsearch, React、Next.js、TypeScript、Apollo Client</td>
+                <td>Google Cloud, PostgreSQL, Go, GORM, GraphQL, Elasticsearch, React、Next.js、TypeScript、Apollo Client</td>
             </tr>
         </tbody>
     </table>
 </details>
 
 <details>
-    <p><b><summary>2024-01 〜 2025-02：toBオークションシステム</summary></b></p>
+    <p><b><i><summary>2024-01 〜 2025-03：toBオークションシステム</summary></b></i></p>
     <table>
         <tbody>
             <tr>
@@ -489,19 +471,7 @@
     </table>
 </details>
 
-#### 担当業務
-
-ほげ
-
 ### その他
-
-#### 部内知見共有
-
-プロダクト共有会
-
-#### 社内コンプラ整備
-
-上場経験
 
 #### 採用活動
 
@@ -510,17 +480,17 @@
 - 逆求人イベントへの参加
 - カジュアル面談・アトラクト面談
 - 新卒・中途面接
-  - 約2年の間に累計100件以上のエンジニア面接を実施
+  - 約2年間で累計100件以上のエンジニア面接を実施
   - 社内で2024新卒の面接対応数No.1を獲得
 - サマーインターンシップ運営
   - 新卒向け3weeksサマーインターンシップの運営を担当
-    - 既存プロダクトへのクレジットカード決済機能の組み込みを課題に、インターン生のサポートを行なった
+    - 既存プロダクトへのクレジットカード決済機能の組み込みを課題に、インターン生のOJTを行なった
 - 内定者インターンのメンター
 
-## 株式会社つなげーと
+<!-- #### 部内知見共有
 
-### 概要
+プロダクト共有会 -->
 
-|概要|期間|チーム構成|役割|業務内容|使用技術|
-|---|---|---|---|---|---|
-|EC販売管理システム|2024-07 〜 2025-01|PdM 1, EM 1, EN 10|EM|エンジニアリングマネジメント|Ruby on Rails, PostgreSQL, AWS|
+<!-- #### 社内コンプラ整備
+
+上場経験 -->
