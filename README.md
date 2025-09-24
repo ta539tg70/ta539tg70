@@ -128,30 +128,23 @@
 -->
 
 <details>
-    <summary>2019-05 〜 2019-09: 在庫管理システム</summary>
-    <br>
+    <p><summary>2019-05 〜 2019-09: 在庫管理システム</summary></p>
     <table>
-        <thead>
-            <tr>
-            <th scope="col">項目</th>
-            <th scope="col">詳細</th>
-            </tr>
-        </thead>
         <tbody>
             <tr>
-                <td>チーム編成</th>
-                <td>PdM 1, EM 1, EN 4</td>
+                <th scope="row">チーム編成</th>
+                <td>PdM 1名, EM 1名, EN 4名</td>
             </tr>
             <tr>
-                <td>役割</th>
+                <th scope="row">自分の役割</th>
                 <td>BE, FE</td>
             </tr>
             <tr>
-                <td>業務内容</th>
+                <th scope="row">業務内容</th>
                 <td>運用改善, 新機能開発</td>
             </tr>
             <tr>
-                <td>使用技術</th>
+                <th scope="row">使用技術</th>
                 <td>Ruby on Rails, PostgreSQL, AWS</td>
             </tr>
         </tbody>
@@ -159,30 +152,24 @@
 </details>
 
 <details>
-    <summary><span style="color: red; ">2019-04 〜 2019-05: 中古車買取システム</span></summary>
+    <summary>2019-04 〜 2019-05: 中古車買取システム</span></summary>
     <br>
     <table>
-        <thead>
-            <tr>
-            <th scope="col">項目</th>
-            <th scope="col">詳細</th>
-            </tr>
-        </thead>
         <tbody>
             <tr>
-                <td>チーム編成</th>
-                <td>PdM 2, EM 1, EN 2</td>
+                <th scope="row">チーム編成</th>
+                <td>PdM 2名, EM 1名, EN 2名</td>
             </tr>
             <tr>
-                <td>役割</th>
+                <th scope="row">自分の役割</th>
                 <td>BE, FE</td>
             </tr>
             <tr>
-                <td>業務内容</th>
+                <th scope="row">業務内容</th>
                 <td>運用改善</td>
             </tr>
             <tr>
-                <td>使用技術</th>
+                <th scope="row">使用技術</th>
                 <td>PHP, MySQL, AWS</td>
             </tr>
         </tbody>
