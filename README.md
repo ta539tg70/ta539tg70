@@ -43,7 +43,7 @@
 
 # 職務経歴
 
-## 株式会社BuySell Technologies（2019-04 〜 2025-04）
+## 株式会社BuySell Technologies
 
 ### 概要
 
@@ -62,8 +62,8 @@
 |在庫管理システム|2020-01 〜 2020-03|PdM 1, EM 1, EN 3|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS|
 |データ移行システム|2019-10 〜 2019-12|TL 1, EN 2|BE|データ加工・変換機能開発|Ruby on Rails, PostgreSQL, AWS, DynamoDB, Lambda|
 |買取管理システム|2019-10 〜 2019-11|PdM 2, EN 5|BE|アンケート機能開発|Ruby on Rails, PostgreSQL, GCP|
-|在庫管理システム|2019-05 〜 2019-09|PdM 1, EM 1, EN 4|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS|
-|中古車買取システム|2019-04 〜 2019-05|PdM 2, EM 1, EN 2|BE, FE|運用改善|PHP, MySQL, AWS|
+<!-- |在庫管理システム|2019-05 〜 2019-09|PdM 1, EM 1, EN 4|BE, FE|運用改善, 新機能開発|Ruby on Rails, PostgreSQL, AWS| -->
+<!-- |中古車買取システム|2019-04 〜 2019-05|PdM 2, EM 1, EN 2|BE, FE|運用改善|PHP, MySQL, AWS| -->
 
 <!--
 1. メルセル（2020.10～2021.01）
@@ -93,7 +93,65 @@
         - 業務委託の契約管理
 -->
 
-プロジェクト内容
+<details>
+    <summary>2019-05 〜 2019-09: 在庫管理システム</summary>
+    <table>
+        <thead>
+            <tr>
+            <th scope="col">項目</th>
+            <th scope="col">詳細</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>チーム編成</th>
+                <td>PdM 1, EM 1, EN 4</td>
+            </tr>
+            <tr>
+                <td>役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <td>業務内容</th>
+                <td>運用改善, 新機能開発</td>
+            </tr>
+            <tr>
+                <td>使用技術</th>
+                <td>Ruby on Rails, PostgreSQL, AWS</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <summary><span style="color: red; ">2019-04 〜 2019-05: 中古車買取システム</span></summary>
+    <table>
+        <thead>
+            <tr>
+            <th scope="col">項目</th>
+            <th scope="col">詳細</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>チーム編成</th>
+                <td>PdM 2, EM 1, EN 2</td>
+            </tr>
+            <tr>
+                <td>役割</th>
+                <td>BE, FE</td>
+            </tr>
+            <tr>
+                <td>業務内容</th>
+                <td>運用改善</td>
+            </tr>
+            <tr>
+                <td>使用技術</th>
+                <td>PHP, MySQL, AWS</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
 #### 担当業務
 
