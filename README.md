@@ -117,7 +117,8 @@
 -->
 
 <details>
-    <p><span style="color: blue;"><summary>2024-07 〜 2025-03：EC販売管理システム</summary></span></p>
+    $${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$
+    <p><summary>$${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$</summary></p>
     <table>
         <tbody>
             <tr>
