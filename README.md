@@ -117,6 +117,7 @@
 -->
 
 $${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$
+${\textsf{\color{lightgreen}2024-07 〜 2025-03：EC販売管理システム}}$
 
 <details>
     <p><summary>$${\color{red}2024-07 〜 2025-03：EC販売管理システム}$$</summary></p>
@@ -143,7 +144,7 @@ $${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$
 </details>
 
 <details>
-    <p><b><i><summary>2024-01 〜 2025-03：toBオークションシステム</summary></b></i></p>
+    <p><b><i><summary>🟥 2024-01 〜 2025-03：toBオークションシステム</summary></b></i></p>
     <table>
         <tbody>
             <tr>
