@@ -116,9 +116,10 @@
         - 業務委託の契約管理
 -->
 
+$${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$
+
 <details>
-    $${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$
-    <p><summary>$${\color{red}2024-07 \space 〜 \space 2025-03：EC販売管理システム}$$</summary></p>
+    <p><summary>$${\color{red}2024-07 〜 2025-03：EC販売管理システム}$$</summary></p>
     <table>
         <tbody>
             <tr>
