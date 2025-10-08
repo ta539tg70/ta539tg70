@@ -86,7 +86,7 @@
 
 ### 開発経験
 
-在籍中は常時掛け持ちで複数プロジェクトに参画し、2019年4月〜2025年3月までの約6年間で述べ15以上のプロジェクトに携わった。（自分のキャリアを築く上で特に重要な経験を積むことができたものは***太字斜字***で記載）
+在籍中は常時掛け持ちで複数プロジェクトに参画し、2019年4月〜2025年3月までの約6年間で述べ15以上のプロジェクトに携わった。（自分のキャリアを築く上で特に重要な経験を積むことができたものは🟢付きで記載）
 
 <!--
 1. メルセル（2020.10～2021.01）
@@ -117,8 +117,7 @@
 -->
 
 <details>
-    <p><summary>${\textsf{\color{red}2024-07 〜 2025-03：EC販売管理システム}}$
-</summary></p>
+    <p><summary>2024-07 〜 2025-03：EC販売管理システム</summary></p>
     <table>
         <tbody>
             <tr>
@@ -142,7 +141,7 @@
 </details>
 
 <details>
-    <p><summary>🟥 2024-01 〜 2025-03：toBオークションシステム</summary></p>
+    <p><summary>2024-01 〜 2025-03：toBオークションシステム 🟢</summary></p>
     <table>
         <tbody>
             <tr>
@@ -166,7 +165,7 @@
 </details>
 
 <details>
-    <p><b><i><summary>2023-04 〜 2024-05：バックオフィス改善PJ</summary></b></i></p>
+    <p><summary>2023-04 〜 2024-05：バックオフィス改善PJ 🟢</summary></b></p>
     <table>
         <tbody>
             <tr>
@@ -238,7 +237,7 @@
 </details>
 
 <details>
-    <p><b><i><summary>2022-09 〜 2022-12：自動送金システム</summary></b></i></p>
+    <p><summary>2022-09 〜 2022-12：自動送金システム 🟢</summary></p>
     <table>
         <tbody>
             <tr>
@@ -262,7 +261,7 @@
 </details>
 
 <details>
-    <p><b><i><summary>2021-02 〜 2023-01：toBオークションシステム</summary></b></i></p>
+    <p><summary>2021-02 〜 2023-01：toBオークションシステム 🟢</summary></p>
     <table>
         <tbody>
             <tr>
@@ -286,7 +285,7 @@
 </details>
 
 <details>
-    <p><b><i><summary>2020-10 〜 2021-01：EC販売管理システム</summary></b></i></p>
+    <p><summary>2020-10 〜 2021-01：EC販売管理システム 🟢</summary></p>
     <table>
         <tbody>
             <tr>
@@ -310,7 +309,7 @@
 </details>
 
 <details>
-    <p><summary>2020-08 〜 2020-09：Shopifyサイト構築 🟢</summary></p>
+    <p><summary>2020-08 〜 2020-09：Shopifyサイト構築</summary></p>
     <table>
         <tbody>
             <tr>
