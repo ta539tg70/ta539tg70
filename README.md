@@ -90,23 +90,18 @@
 在籍中は常時掛け持ちで複数プロジェクトに参画し、2019年4月〜2025年3月までの約6年間で述べ15以上のプロジェクトに携わった。（自身のキャリアを築く上で特に重要な経験を積むことができたと感じるものは✅付きで記載）
 
 <!--
-1. WEBオークション（2021.02～2023.01）
-    - Ruby on Rails, Postgres, AWS
-    - 運用改善
-    - LIVEオークション機能開発
-    - 平場機能開発
-2.  Money Transfer（2022.10～2022.12）
+1.  Money Transfer（2022.10～2022.12）
     - Node.js, Datastore, GCP
     - 新規開発
-3.  バックオフィス改善（2023.04～2024.06）
+2.  バックオフィス改善（2023.04～2024.06）
     - PjM業務
     - kintone→kickflow移行
     - 新反社チェックフローの構築
-4.  WEBオークション（2024.01～2025.01）
+3.  WEBオークション（2024.01～2025.01）
     - EM業務
         - PdM業務、PjM業務
         - ピープルマネジメント
-5.  EXS（2024.07～2025.01）
+4.  EXS（2024.07～2025.01）
     - EM業務
         - PdMサポート、PjMサポート
         - ピープルマネジメント
@@ -251,7 +246,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Node.js, TypeScript, GCP, Datastore</td>
+                <td>Node.js, TypeScript, Google Cloud, Datastore</td>
             </tr>
         </tbody>
     </table>
@@ -352,7 +347,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, GCP</td>
+                <td>Ruby on Rails, PostgreSQL, Google Cloud</td>
             </tr>
         </tbody>
     </table>
@@ -424,7 +419,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, GCP</td>
+                <td>Ruby on Rails, PostgreSQL, Google Cloud</td>
             </tr>
         </tbody>
     </table>
