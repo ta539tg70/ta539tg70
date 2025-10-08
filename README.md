@@ -141,7 +141,7 @@
 </details>
 
 <details>
-    <p><summary>2024-01 〜 2025-03：toBオークションシステム ☑️</summary></p>
+    <p><b><summary>2024-01 〜 2025-03：toBオークションシステム ☑️</summary></b></p>
     <table>
         <tbody>
             <tr>
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-    <p><summary>2023-04 〜 2024-05：バックオフィス改善PJ ☑️</summary></b></p>
+    <p><b><summary>2023-04 〜 2024-05：バックオフィス改善PJ ☑️</summary></b></p>
     <table>
         <tbody>
             <tr>
@@ -237,7 +237,7 @@
 </details>
 
 <details>
-    <p><summary>2022-09 〜 2022-12：自動送金システム ☑️</summary></p>
+    <p><b><summary>2022-09 〜 2022-12：自動送金システム ☑️</summary></b></p>
     <table>
         <tbody>
             <tr>
@@ -261,7 +261,7 @@
 </details>
 
 <details>
-    <p><summary>2021-02 〜 2023-01：toBオークションシステム ☑️</summary></p>
+    <p><b><summary>2021-02 〜 2023-01：toBオークションシステム ☑️</summary></b></p>
     <table>
         <tbody>
             <tr>
@@ -285,7 +285,7 @@
 </details>
 
 <details>
-    <p><summary>2020-10 〜 2021-01：EC販売管理システム ☑️</summary></p>
+    <p><b><summary>2020-10 〜 2021-01：EC販売管理システム ☑️</summary></b></p>
     <table>
         <tbody>
             <tr>
