@@ -1,12 +1,18 @@
-# 職務経歴書
+<h1>職務経歴書</h1>
 
 # 目次
 
+- [目次](#目次)
 - [基本情報](#基本情報)
 - [職務要約](#職務要約)
 - [技術スタック](#技術スタック)
 - [自己PR](#自己pr)
+  - [ほげ](#ほげ)
 - [職務経歴](#職務経歴)
+  - [株式会社BuySell Technologies](#株式会社buysell-technologies)
+    - [開発経験](#開発経験)
+    - [その他](#その他)
+      - [採用活動](#採用活動)
 
 # 基本情報
 
@@ -64,7 +70,7 @@
     </tr>
     <tr>
       <th scope="row">ツール</th>
-      <td>Jira, Confluence, Slack, Sentry, Opsgenie</td>
+      <td>Jira, Confluence, Notion, Slack, Sentry, Opsgenie</td>
     </tr>
   </tbody>
 </table>
