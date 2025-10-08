@@ -310,7 +310,7 @@
 </details>
 
 <details>
-    <p><summary>2020-08 〜 2020-09：Shopifyサイト構築</summary></p>
+    <p><summary>2020-08 〜 2020-09：Shopifyサイト構築 🟢</summary></p>
     <table>
         <tbody>
             <tr>
