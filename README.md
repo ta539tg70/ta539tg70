@@ -199,7 +199,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -247,7 +247,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE</td>
+                <td>EN（BE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -271,7 +271,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -295,7 +295,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -321,7 +321,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -345,7 +345,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -369,7 +369,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -393,7 +393,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE</td>
+                <td>EN（BE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -417,7 +417,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE</td>
+                <td>EN（BE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -441,7 +441,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
@@ -465,7 +465,7 @@
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
-                <td>BE, FE</td>
+                <td>EN（BE, FE）</td>
             </tr>
             <tr>
                 <th scope="row">業務内容</th>
