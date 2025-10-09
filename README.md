@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <th scope="row">フロントエンド</th>
-      <td>React, TypeScript, Next.js, Vue.js, MUI, Storybook</td>
+      <td>TypeScript, Next.js, React, Vue.js, MUI, Storybook</td>
     </tr>
     <tr>
       <th scope="row">CI/CD</th>
@@ -229,7 +229,7 @@
 </details>
 
 <details>
-    <p><summary>2022-09 〜 2022-12：自動送金システム ✅</summary></p>
+    <p><summary>2022-09 〜 2025-03：自動送金システム ✅</summary></p>
     <table>
         <tbody>
             <tr>
@@ -250,6 +250,8 @@
             </tr>
         </tbody>
     </table>
+    大量の手動送金により経理部の業務が逼迫しているという課題から、自動で送金ができるシステムの構築を立案。既存の業務フローや想定送金件数等のヒアリング〜技術検証・技術選定〜設計・実開発〜リリース後の運用保守および効果測定まで一貫してほぼ1人で行った。（開発背景や技術構成の詳細は<a href="https://tech.buysell-technologies.com/entry/adventcalendar2022-12-21" target="_blank">こちら</a>）
+    開発決議を得るために初期開発コストと運用コストを試算し、作るもの・作らないもの（既存サービスで代替できるもの）を整理した。会社全体の会計周りの知見が身につき、コストを意識して開発に取り組むきっかけとなった。
 </details>
 
 <details>
