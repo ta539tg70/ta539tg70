@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <th scope="row">フロントエンド</th>
-      <td>React, Next.js, TypeScript, MUI, Storybook</td>
+      <td>React, TypeScript, Next.js, Vue.js, MUI, Storybook</td>
     </tr>
     <tr>
       <th scope="row">CI/CD</th>
@@ -126,7 +126,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Google Cloud, PostgreSQL, Elasticsearch, Go, GORM, GraphQL, React、Next.js、TypeScript、Apollo Client</td>
+                <td>Go, GORM, TypeScript, React, Next.js, GraphQL, Apollo Client, Google Cloud, PostgreSQL, Elasticsearch</td>
             </tr>
         </tbody>
     </table>
@@ -150,7 +150,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, AWS, Lambda</td>
+                <td>Ruby on Rails, AWS, PostgreSQL, Lambda</td>
             </tr>
         </tbody>
     </table>
@@ -198,7 +198,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>AWS, Ruby on Rails, PostgreSQL</td>
+                <td>Ruby on Rails, AWS, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -222,7 +222,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Google Cloud, Go, Next.js, TypeScript, PostgreSQL</td>
+                <td>Go, TypeScript, Next.js, Google Cloud, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -270,7 +270,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, AWS</td>
+                <td>Ruby on Rails, AWS, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -297,7 +297,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, DynamoDB, AWS, Lambda</td>
+                <td>Ruby on Rails, AWS, PostgreSQL, DynamoDB, Lambda</td>
             </tr>
         </tbody>
     </table>
@@ -323,7 +323,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Liquid</td>
+                <td>Liquid, Shopify</td>
             </tr>
         </tbody>
     </table>
@@ -347,7 +347,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, Google Cloud</td>
+                <td>Ruby on Rails, Google Cloud, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -371,7 +371,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, AWS</td>
+                <td>Ruby on Rails, AWS, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -395,7 +395,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, AWS</td>
+                <td>Ruby on Rails, AWS, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -419,7 +419,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, Google Cloud</td>
+                <td>Ruby on Rails, Google Cloud, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -443,7 +443,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>Ruby on Rails, PostgreSQL, AWS</td>
+                <td>Ruby on Rails, AWS, PostgreSQL</td>
             </tr>
         </tbody>
     </table>
@@ -467,7 +467,7 @@
             </tr>
             <tr>
                 <th scope="row">使用技術</th>
-                <td>PHP, MySQL, AWS</td>
+                <td>PHP, AWS, MySQL</td>
             </tr>
         </tbody>
     </table>
