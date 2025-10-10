@@ -115,7 +115,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>PdM 1名, EM 1名, EN 10名</td>
+                <td>PdM 1名, EM 1名, EN 10名, Biz 8名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
@@ -140,7 +140,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>PdM 1名, EM 1名, EN 3名</td>
+                <td>PdM 1名, EM 1名, EN 3名, Biz 2名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
@@ -219,7 +219,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>PdM 1名, EN 3名</td>
+                <td>PdM 1名, EN 3名, Biz 1名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
@@ -243,7 +243,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>EM 1名, EN 1名</td>
+                <td>EM 1名, EN 1名, Biz 2名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
@@ -270,7 +270,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>PdM 1名, EM 1名, EN 6名</td>
+                <td>PdM 1名, EM 1名, EN 6名, Biz 8名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
@@ -297,7 +297,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>PdM/EN 1名, EN 1名</td>
+                <td>PdM/EN 1名, EN 1名, Biz 3名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
@@ -323,7 +323,7 @@
         <tbody>
             <tr>
                 <th scope="row">チーム編成</th>
-                <td>EN 2名</td>
+                <td>EN 2名, Biz 1名</td>
             </tr>
             <tr>
                 <th scope="row">自分の役割</th>
