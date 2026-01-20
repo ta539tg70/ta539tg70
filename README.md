@@ -135,7 +135,7 @@
 </details>
 
 <details>
-    <p><summary>2019-05 〜 2019-09：在庫管理システム</summary></p>
+    <summary>2019-05 〜 2019-09：在庫管理システム</summary>
     <table>
         <tbody>
             <tr>
@@ -160,7 +160,7 @@
 </details>
 
 <details>
-    <p><summary>2019-10 〜 2019-11：買取管理システム</summary></p>
+    <summary>2019-10 〜 2019-11：買取管理システム</summary>
     <table>
         <tbody>
             <tr>
@@ -185,7 +185,7 @@
 </details>
 
 <details>
-    <p><summary>2019-10 〜 2019-12：データ移行システム</summary></p>
+    <summary>2019-10 〜 2019-12：データ移行システム</summary>
     <table>
         <tbody>
             <tr>
@@ -210,7 +210,7 @@
 </details>
 
 <details>
-    <p><summary>2020-01 〜 2020-03：在庫管理システム</summary></p>
+    <summary>2020-01 〜 2020-03：在庫管理システム</summary>
     <table>
         <tbody>
             <tr>
@@ -234,7 +234,7 @@
 </details>
 
 <details>
-    <p><summary>2020-04 〜 2020-07：即時買取システム</summary></p>
+    <summary>2020-04 〜 2020-07：即時買取システム</summary>
     <table>
         <tbody>
             <tr>
@@ -259,7 +259,7 @@
 </details>
 
 <details>
-    <p><summary>2020-08 〜 2020-09：Shopifyサイト構築</summary></p>
+    <summary>2020-08 〜 2020-09：Shopifyサイト構築</summary>
     <table>
         <tbody>
             <tr>
@@ -283,7 +283,7 @@
 </details>
 
 <details>
-    <p><summary>2020-10 〜 2021-01：EC販売管理システム ✅</summary></p>
+    <summary>2020-10 〜 2021-01：EC販売管理システム ✅</summary>
     <table>
         <tbody>
             <tr>
@@ -309,7 +309,7 @@
 </details>
 
 <details>
-    <p><summary>2021-02 〜 2023-01：toBオークションシステム ✅</summary></p>
+    <summary>2021-02 〜 2023-01：toBオークションシステム ✅</summary>
     <table>
         <tbody>
             <tr>
@@ -340,7 +340,7 @@
 
 
 <details>
-    <p><summary>2022-09 〜 2023-01：自動送金システム ✅</summary></p>
+    <summary>2022-09 〜 2023-01：自動送金システム ✅</summary>
     <table>
         <tbody>
             <tr>
@@ -367,7 +367,7 @@
 </details>
 
 <details>
-    <p><summary>2023-02 〜 2023-04：在庫管理システム</summary></p>
+    <summary>2023-02 〜 2023-04：在庫管理システム</summary>
     <table>
         <tbody>
             <tr>
@@ -392,7 +392,7 @@
 </details>
 
 <details>
-    <p><summary>2023-05 〜 2023-08：toBオークションシステム</summary></p>
+    <summary>2023-05 〜 2023-08：toBオークションシステム</summary>
     <table>
         <tbody>
             <tr>
@@ -417,7 +417,7 @@
 </details>
 
 <details>
-    <p><summary>2023-04 〜 2024-05：バックオフィス改善PJ ✅</summary></p>
+    <summary>2023-04 〜 2024-05：バックオフィス改善PJ ✅</summary>
     <table>
         <tbody>
             <tr>
@@ -444,7 +444,7 @@
 </details>
 
 <details>
-    <p><summary>2024-01 〜 2025-03：toBオークションシステム ✅</summary></p>
+    <summary>2024-01 〜 2025-03：toBオークションシステム ✅</summary>
     <table>
         <tbody>
             <tr>
@@ -472,7 +472,7 @@
 </details>
 
 <details>
-    <p><summary>2024-07 〜 2025-03：EC販売管理システム</summary></p>
+    <summary>2024-07 〜 2025-03：EC販売管理システム</summary>
     <table>
         <tbody>
             <tr>
