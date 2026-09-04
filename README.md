@@ -86,6 +86,10 @@
       <td>Jira, Confluence, Notion, Slack, Sentry, Opsgenie, New Relic</td>
     </tr>
     <tr>
+      <th scope="row">AI</th>
+      <td>ChatGPT, Claude, Gemini, Devin</td>
+    </tr>
+    <tr>
       <th scope="row">その他</th>
       <td>ビジネスレベルの英語力（6年半のカナダ留学経験あり）</td>
     </tr>
